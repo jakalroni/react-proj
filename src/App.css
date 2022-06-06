@@ -7,6 +7,24 @@
   pointer-events: none;
 }
 
+.navbar {
+  padding: 50px;
+}
+
+.navbar-brand {
+  font-size: 2.0em;
+}
+.nav-link {
+  font-size: 1.5em;
+}
+
+.main-bg {
+  height: 75vh;
+  background-image: url('./img/bg.jpg');
+  background-size: cover;
+  background-position: center;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
