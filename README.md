@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,11 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react-frontend-DK-market
+# FRONT
+Spring, React 사용 당근마켓 클론코딩
+
+###### lecture : DK-opensource SW
+###### frontend developer : 32203660 이현정, 32184026 전재욱
+>>>>>>> 186c0ec2805280c891ba482aa5f0136c6e6cd78f
